@@ -51,6 +51,6 @@ Usage of LaserScan.exe:
 
 ### 使用截图
 
-![image-20230310081316099](C:\Users\Fariy\AppData\Roaming\Typora\typora-user-images\image-20230310081316099.png)
+![image](https://user-images.githubusercontent.com/87681228/224193701-ffeafae5-ca72-4389-85fb-b2d45f21f6b0.png)
 
-![image-20230310081406229](C:\Users\Fariy\AppData\Roaming\Typora\typora-user-images\image-20230310081406229.png)
+![image](https://user-images.githubusercontent.com/87681228/224193798-2cf08de6-0a1b-47ac-a177-ea071215137b.png)
